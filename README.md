@@ -2,6 +2,8 @@
 
 This project is a frontend-only MVP (Minimum Viable Product) for an HCI Dashboard application. It features interactive mockups and UI components without implementing a persistent data layer or real-time updates.
 
+![Chat view of the HCI Dashboard](docs/screenshots/chat.png)
+
 ## Key Features
 
 - **Static Data Dashboards**
